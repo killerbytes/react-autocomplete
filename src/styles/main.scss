@@ -1,0 +1,17 @@
+@import "components/search-box";
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+.container{
+    max-width: 1100px;
+    margin: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
